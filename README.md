@@ -29,7 +29,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### Updates
 Due to outdated versions or dependencies not being installed, run these if error occurs
 
-->  'npm install react-scripts@5.0.1 --save --legacy-peer-deps' to install 
+->  'npm install react-scripts@5.0.1 --save --legacy-peer-deps' to install .\
 ->  Sometimes the install is corrupted. Clean and reinstall:
 
     ' rd /s /q node_modules
